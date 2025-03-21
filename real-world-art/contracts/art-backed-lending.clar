@@ -1,4 +1,4 @@
-;; Art-Backed Lending Protocol
+;; Art-Backed-Lending
 ;; - Enables NFT shareholders to use their art shares as collateral for loans
 ;; - Creates liquidity from relatively illiquid art assets
 ;; - Maintains ownership while accessing capital
